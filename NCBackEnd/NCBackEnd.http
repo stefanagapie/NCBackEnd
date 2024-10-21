@@ -1,0 +1,6 @@
+@NCBackEnd_HostAddress = http://localhost:5193
+
+GET {{NCBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
